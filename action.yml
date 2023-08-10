@@ -3,5 +3,5 @@ description: 'Install g4g-java-dockerizer CLI tool'
 
 runs:
   using: 'docker'
-  image: 'docker://mendinuetaj/g4g-java-dockerizer:1.0-1'
+  image: 'docker://mendinuetaj/g4g-java-dockerizer:1.0-2'
   
