@@ -1,0 +1,7 @@
+name: 'g4g-java-dockerizer tool installer'
+description: 'Install g4g-java-dockerizer CLI tool'
+
+runs:
+  using: 'docker'
+  image: 'mendinuetaj/g4g-java-dockerizer:1.0-0'
+  
